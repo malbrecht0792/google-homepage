@@ -1,0 +1,44 @@
+ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	position: relative;
+}
+
+.header{
+	float: right;
+	padding: 4px;
+}
+
+.footer_left{
+	float: left;
+	padding: 4px;
+}
+
+.footer_right{
+	float: right;
+	padding: 4px;
+}
+
+li a{
+	display: block;
+	color: #696969;
+	text-decoration: none;
+}
+
+img{
+
+	display: block;
+	margin: auto;
+	margin-left: auto;
+	margin-right: auto;
+	vertical-align: middle;
+}
+
+input{
+
+	display: block;
+	margin: auto;
+	height: 30px;
+	width: 500px;
+}
